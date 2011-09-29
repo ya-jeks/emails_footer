@@ -1,3 +1,12 @@
-= user_email_footer
+= User custom signature in e`mails
 
 The user can set his signature to activity email`s
+= How to
+in redmine folder:
+cd vendor/plugins/
+git clone git://github.com/ya-jeks/emails_footer.git
+rake db:migrate:plugins
+
+restart redmine app
+set signature in 'my/account' page
+
