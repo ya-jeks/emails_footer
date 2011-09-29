@@ -7,7 +7,7 @@ In redmine folder:
 * git clone git://github.com/ya-jeks/emails_footer.git
 * rake db:migrate:plugins
 
-<tt>Restart redmine app
-<tt>Set signature in 'my/account' page
+Restart redmine app and set signature in 'my/account' page
+
 
 
