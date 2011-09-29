@@ -1,0 +1,3 @@
+= user_email_footer
+
+The user can set his signature to activity email`s
